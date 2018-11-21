@@ -8,8 +8,56 @@
 var friendsArray = [
 
 {
-    name: "Ahmed",
-    photo: "https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+    name: "John",
+    photo: "https://image.freepik.com/free-photo/shirt-confident-retro-man-happiness_1187-6055.jpg",
+    scores: [
+        5,
+        1,
+        4,
+        4,
+        5,
+        1,
+        2,
+        5,
+        4,
+        1
+      ]
+  },
+  {
+    name: "Peter",
+    photo: "https://image.freepik.com/free-photo/man-smiling-with-arms-crossed_1187-2903.jpg",
+    scores: [
+        5,
+        1,
+        4,
+        4,
+        5,
+        1,
+        2,
+        5,
+        4,
+        1
+      ]
+  },
+  {
+    name: "David",
+    photo: "https://image.freepik.com/free-photo/handsome-man-pointing-to-the-lateral_1368-5182.jpg",
+    scores: [
+        5,
+        1,
+        4,
+        4,
+        5,
+        1,
+        2,
+        5,
+        4,
+        1
+      ]
+  },
+  {
+    name: "Andrew",
+    photo: "https://image.freepik.com/free-photo/close-up-of-distracted-guy-with-glasses_1149-895.jpg",
     scores: [
         5,
         1,
